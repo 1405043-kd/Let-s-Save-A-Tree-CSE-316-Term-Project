@@ -12,7 +12,8 @@ The main aim  of this project is to automate the process of watering a plant whe
 Here’s the project video. 
 https://youtu.be/ATzfSjtFCaI
 
-
+Here's the full report of the project.
+https://drive.google.com/file/d/1n1g5utzxyTQevRQjtOjWim-8lMAH3gsH/view?usp=sharing
 
 
 			
